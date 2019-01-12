@@ -20,7 +20,6 @@ import cv2
 import os
 
 # path to the training, validation, and testing directories
-
 train_directory = '/train'
 validation_directory = '/valid'
 test_directory = '/test'
