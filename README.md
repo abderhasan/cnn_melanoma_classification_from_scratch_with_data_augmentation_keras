@@ -4,7 +4,7 @@ I will be sharing a script using Keras for training a Convolutional Neural Netwo
 
 Before proceeding, make sure that you structure the data as follows (the numbers represent the number of images in each file):
 
-<img class="aligncenter wp-image-853 size-full" src="https://abder.io/wp-content/uploads/2019/01/Directory-structure-1.png" alt="" width="2250" height="1275" />You can download the data from,<strong> <a href="https://drive.google.com/drive/folders/126UgFt_xqnHpeV1Pr_qLDQLwzBbi4rrY?usp=sharing">here</a></strong>. I used two classes as you can see from the figure above (nevus and melanoma). For training, I kept 374 images in each class to keep the data balanced.
+<img class="aligncenter wp-image-853 size-full" src="https://abder.io/wp-content/uploads/2019/01/Directory-structure-1.png" alt="" width="1500" height="700" />You can download the data from,<strong> <a href="https://drive.google.com/drive/folders/126UgFt_xqnHpeV1Pr_qLDQLwzBbi4rrY?usp=sharing">here</a></strong>. I used two classes as you can see from the figure above (nevus and melanoma). For training, I kept 374 images in each class to keep the data balanced.
 
 The results will not be optimal, as the purpose is to show how one can train a CNN from scratch.
 
