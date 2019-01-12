@@ -28,7 +28,9 @@ You need to edit the following variables to point to your data:
 
 <em>Training and validation loss</em>
 
-<img class="aligncenter size-full wp-image-864" src="https://abder.io/wp-content/uploads/2019/01/loss-1.png" alt="" width="640" height="480" /><em>ROC curve</em>
+<img class="aligncenter size-full wp-image-864" src="https://abder.io/wp-content/uploads/2019/01/loss-1.png" alt="" width="640" height="480" />
+
+<em>ROC curve</em>
 
 <img class="aligncenter size-full wp-image-865" src="https://abder.io/wp-content/uploads/2019/01/ROC-1.png" alt="" width="640" height="480" />
 
