@@ -35,5 +35,3 @@ You need to edit the following variables to point to your data:
 <img class="aligncenter size-full wp-image-865" src="https://abder.io/wp-content/uploads/2019/01/ROC-1.png" alt="" width="640" height="480" />
 
 In addition to some other values (i.e. accuracy, confusion matrix) that will be displayed on the console.
-
-[thrive_leads id='677']
