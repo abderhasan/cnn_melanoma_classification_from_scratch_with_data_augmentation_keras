@@ -10,7 +10,7 @@ You can download the data from,<strong> <a href="https://drive.google.com/drive/
 
 To run the code:
 
-`$ python cnn_from_scratch.py`
+`$ python cnn_with_augmentation.py`
 
 The results will not be optimal, as the purpose is to show how one can train a CNN from scratch.
 
