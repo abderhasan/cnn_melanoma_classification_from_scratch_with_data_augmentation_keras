@@ -1,6 +1,6 @@
 # Training a CNN from scratch with data augmentation for melanoma detection using Keras
 
-I will be sharing a script using Keras for training a Convolutional Neural Network (CNN) from scratch with data augmentation for melanoma detection. You can view the code from <a href="https://github.com/abderhasan/cnn_melanoma_classification_from_scratch_with_data_augmentation_keras"><strong>this GitHub repository</strong></a>. In the <a href="https://abder.io/training-a-cnn-from-scratch-for-melanoma-detection-using-keras/"><strong>previous post</strong></a>, the CNN was trained from scratch without augmenting the data.
+I will be sharing a script using Keras for training a Convolutional Neural Network (CNN) from scratch with data augmentation for melanoma detection. You can view the code from <a href="https://github.com/abderhasan/cnn_melanoma_classification_from_scratch_with_data_augmentation_keras"><strong>this GitHub repository</strong></a>.
 
 Before proceeding, make sure that you structure the data as follows (the numbers represent the number of images in each file):
 
