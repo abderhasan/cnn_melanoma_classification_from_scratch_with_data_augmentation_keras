@@ -23,19 +23,3 @@ You need to edit the following variables to point to your data:
 <em>validation_directory</em> (path to your training directory)
 
 <em>test_directory</em> (path to your testing directory)
-
-<strong>What should you expect (outputs)?</strong>
-
-<em>Training and validation accuracy</em>
-
-<img class="aligncenter size-full wp-image-863" src="https://abder.io/wp-content/uploads/2019/01/accuracy-1.png" alt="" width="640" height="480" />
-
-<em>Training and validation loss</em>
-
-<img class="aligncenter size-full wp-image-864" src="https://abder.io/wp-content/uploads/2019/01/loss-1.png" alt="" width="640" height="480" />
-
-<em>ROC curve</em>
-
-<img class="aligncenter size-full wp-image-865" src="https://abder.io/wp-content/uploads/2019/01/ROC-1.png" alt="" width="640" height="480" />
-
-In addition to some other values (i.e. accuracy, confusion matrix) that will be displayed on the console.
